@@ -1,0 +1,15 @@
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\bin\Debug\net6.0\ZaverecnyProjektPolanskyMatej.exe
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\bin\Debug\net6.0\ZaverecnyProjektPolanskyMatej.deps.json
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\bin\Debug\net6.0\ZaverecnyProjektPolanskyMatej.runtimeconfig.json
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\bin\Debug\net6.0\ZaverecnyProjektPolanskyMatej.dll
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\bin\Debug\net6.0\ZaverecnyProjektPolanskyMatej.pdb
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\obj\Debug\net6.0\ZaverecnyProjektPolanskyMatej.csproj.AssemblyReference.cache
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\obj\Debug\net6.0\ZaverecnyProjektPolanskyMatej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\obj\Debug\net6.0\ZaverecnyProjektPolanskyMatej.AssemblyInfoInputs.cache
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\obj\Debug\net6.0\ZaverecnyProjektPolanskyMatej.AssemblyInfo.cs
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\obj\Debug\net6.0\ZaverecnyProjektPolanskyMatej.csproj.CoreCompileInputs.cache
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\obj\Debug\net6.0\ZaverecnyProjektPolanskyMatej.dll
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\obj\Debug\net6.0\refint\ZaverecnyProjektPolanskyMatej.dll
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\obj\Debug\net6.0\ZaverecnyProjektPolanskyMatej.pdb
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\obj\Debug\net6.0\ZaverecnyProjektPolanskyMatej.genruntimeconfig.cache
+C:\Users\Technik\Závěrečný projekt\ZaverecnyProjektPolanskyMatej\obj\Debug\net6.0\ref\ZaverecnyProjektPolanskyMatej.dll
